@@ -1,0 +1,9 @@
+# Compiled program and object files
+buffer_pool
+*.o
+*.obj
+*.exe
+*.dSYM/
+
+# macOS files
+.DS_Store
